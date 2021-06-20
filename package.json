@@ -1,7 +1,7 @@
 {
-  "name": "gitbook-plugin-theme-hqbook",
-  "version": "1.1.0",
-  "description": "A Gitbook theme for hqbook",
+  "name": "gitbook-plugin-theme-cqbook",
+  "version": "0.0.1",
+  "description": "A Gitbook theme",
   "main": "index.js",
   "engines": {
     "gitbook": ">=3.0.0"
@@ -52,19 +52,9 @@
     }
   },
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HaoqiangChen/gitbook-plugin-theme-hqbook.git"
-  },
   "keywords": [
-    "gitbook",
-    "theme-hqbook",
-    "prism"
+    "gitbook"
   ],
-  "author": "chenhaoqiang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HaoqiangChen/gitbook-plugin-theme-hqbook/issues"
-  },
-  "homepage": "https://github.com/HaoqiangChen/gitbook-plugin-theme-hqbook#readme"
+  "author": "chongqiangchen",
+  "license": "MIT"
 }
